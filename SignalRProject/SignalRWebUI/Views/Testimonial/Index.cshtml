@@ -1,0 +1,55 @@
+﻿@model List<ResultTestimonialDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayoutController1/Index.cshtml";
+}
+
+
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header ">
+                        <h4 class="card-title">Referans Yorum İşlemleri</h4>
+                        <p class="card-category">Referans Yorum Listesi</p>
+                    </div>
+                    <div class="card-body">
+                       Müşterilerin Yaptıgı Yorumlar İle ilgili işlemleri buradan Seçiniz
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-head-bg-success table-striped table-hover">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Ad Soyad</th>
+                                    <th scope="col">Durum</th>
+                                    <th scope="col">Sil</th>
+                                    <th scope="col">Güncelle</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.TestiomanialID</td>
+                                        <td>@item.TestName</td>
+                                        <td>@item.TestStatus</td>
+                                        <td><a href="/Testimonial/DeleteTestimonial/@item.TestiomanialID" class="btn btn-outline-danger">Sil</a></td>
+                                        <td><a href="/Testimonial/UpdateTestimonial/@item.TestiomanialID" class="btn btn-outline-success">Güncelle</a></td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                        <a href="/Testimonial/CreateTestimonial/" class="btn btn-outline-primary">Yeni Müşteri Yorumu</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

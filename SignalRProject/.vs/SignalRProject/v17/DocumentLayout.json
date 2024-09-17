@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1663E-DFFA-43BC-AA06-56E30AAF76FE}|SignalRApi\\SignalRApi.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1663E-DFFA-43BC-AA06-56E30AAF76FE}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8318165-D421-4CA0-AFE1-6CB4D54FA085}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8318165-D421-4CA0-AFE1-6CB4D54FA085}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalr.dataacceslayer\\entityframework\\efproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|solutionrelative:signalr.dataacceslayer\\entityframework\\efproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8318165-D421-4CA0-AFE1-6CB4D54FA085}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalr.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8318165-D421-4CA0-AFE1-6CB4D54FA085}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalr.dataacceslayer\\abstract\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|solutionrelative:signalr.dataacceslayer\\abstract\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|c:\\users\\user\\source\\repos\\signalrproject\\signalr.dataacceslayer\\abstract\\isocialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88ADE87-5B33-4C83-A3E0-21A4EA950BB3}|SignalR.DataAccesLayer\\SignalR.DataAccesLayer.csproj|solutionrelative:signalr.dataacceslayer\\abstract\\isocialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:01:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:57:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:56:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\EntityFramework\\EfProduct.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccesLayer\\EntityFramework\\EfProduct.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\EntityFramework\\EfProduct.cs",
+              "RelativeToolTip": "SignalR.DataAccesLayer\\EntityFramework\\EfProduct.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:48:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\Abstract\\ISocialMedia.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccesLayer\\Abstract\\ISocialMedia.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\Abstract\\ISocialMedia.cs",
+              "RelativeToolTip": "SignalR.DataAccesLayer\\Abstract\\ISocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:48:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\Abstract\\IProduct.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccesLayer\\Abstract\\IProduct.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SignalRProject\\SignalR.DataAccesLayer\\Abstract\\IProduct.cs",
+              "RelativeToolTip": "SignalR.DataAccesLayer\\Abstract\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:46:54.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

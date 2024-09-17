@@ -1,0 +1,51 @@
+﻿@model UpdateTestimonialDto
+
+@{
+    ViewData["Title"] = "UpdateTestimonial";
+    Layout = "~/Views/AdminLayoutController1/Index.cshtml";
+}
+
+<div class="container-fluid">
+    <h4 class="page-title">Forms</h4>
+    <div class="row">
+        <div class="col-md-12">
+            <form method="post">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Müşteri Yorum İşlemleri </div>
+                    </div>
+                    <input type="hidden" asp-for="TestiomanialID" />
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="TestName">Müşteri Adını Giriniz</label>
+                            <input type="text" class="form-control" asp-for="TestName" id="TestName">
+
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="TestTitle">Müşteri Ünvanını Giriniz</label>
+                            <input type="text" class="form-control" asp-for="TestTitle" id="TestTitle">
+
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="TestImageUrl">Müşteri Resim Dosya Yolu</label>
+                            <input type="text" class="form-control" asp-for="TestImageUrl" id="TestImageUrl">
+
+                        </div>
+                    </div>
+                   
+
+                    <div class="card-action">
+                        <button class="btn btn-success">Sosyal Medyayı Güncelle</button>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
